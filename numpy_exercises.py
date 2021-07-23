@@ -68,7 +68,7 @@ max_of_a
 
 # Exercise 4 - Make a variable named mean_of_a to hold the average of all the numbers in the above list
 mean_of_a = sum(a) / len(a)
-mean_of_a
+mean_of_a = (a * sum())
 
 # Exercise 5 - Make a variable named product_of_a to hold the product of multiplying all the numbers in the above list together
 product_of_a = 
